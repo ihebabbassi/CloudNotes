@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Cloud Certifications Notes.
 
-You can use the [editor on GitHub](https://github.com/ihebabbassi/CloudNotes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I have gathered some notes about my cloud certifications, hope they help you with your preparations.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
