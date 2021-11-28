@@ -1,12 +1,11 @@
-## Cloud Certifications Notes.
+# Cloud Certifications Notes.
 
 I have gathered some notes about my cloud certifications, hope they help you with your preparations.
 
-## Cloud Certifications Notes.
+## Achived or Intended Cloud Certifications.
 - AWS Cloud Practitioner
 - AWS Developer Associate
-- AWS SysOps Associate
-- AWS Solutions Architect Associate
+- AWS DevOps Engineer
 
 
 
