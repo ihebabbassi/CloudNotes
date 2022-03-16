@@ -4,7 +4,7 @@
 - is the **on-demand delivery** of IT resources through cloud services platfrom with **pay-as-you-go pricing** that can scal up and down based on your exact needs.
 - Deployement Models of the cloud:
     - Private Cloud
-    - Pulibc Cloud
+    - Public Cloud
     - Hybrid Cloud
 - Caracteristics:
     - On-demand self service
